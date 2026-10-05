@@ -1,0 +1,21 @@
+<resources>
+    <string name="home_title">Pokédex</string>
+    <string name="home_filter">Filter by type</string>
+    <string name="home_update">Refresh</string>
+    <string name="home_partial">Saved data only. Coverage may be partial; other Pokémon may match online.</string>
+    <string name="home_updating">Updating saved data…</string>
+    <string name="home_refresh_failed">Could not update. Saved content is still available.</string>
+    <string name="home_completion_failed">Favorite saved. Could not complete its data or image.</string>
+    <string name="home_favorite_read_failed">Could not read favorites. Retry before changing a favorite.</string>
+    <string name="home_favorite_write_failed">Could not save the favorite change. Its saved state is unchanged.</string>
+    <string name="home_loading">Loading Pokémon…</string>
+    <string name="home_loading_more">Loading more Pokémon…</string>
+    <string name="home_load_failed">Could not load Pokémon. Check your connection and retry.</string>
+    <string name="home_load_more_failed">Could not load the next page. You can retry.</string>
+    <string name="home_retry">Retry</string>
+    <string name="home_empty">No Pokémon match. Clear the search or change the type.</string>
+    <string name="home_empty_partial">No saved Pokémon match. Other matches may be available online.</string>
+    <string name="home_close_filter">Close filter without applying</string>
+    <string name="home_reset_type">Reset type</string>
+    <string name="home_apply">Apply</string>
+</resources>

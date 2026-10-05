@@ -1,0 +1,54 @@
+﻿{
+    "owner":  "pocketdex",
+    "schemaVersion":  1,
+    "files":  [
+                  {
+                      "path":  "pocketdex-architecture/SKILL.md",
+                      "sha256":  "890510058DEE9D989B172A2A5DA699EAFA4A6CC9E9D8B0D7454778BC88E62EDE"
+                  },
+                  {
+                      "path":  "pocketdex-architecture/agents/openai.yaml",
+                      "sha256":  "688F9DE355886B0202B2022AD06865EE87586471718376E04709CAA1E84895AD"
+                  },
+                  {
+                      "path":  "pocketdex-compose/SKILL.md",
+                      "sha256":  "2308E788AD342FA99F6EB2007210213CE64994A38AD779C182D1C345E43A4587"
+                  },
+                  {
+                      "path":  "pocketdex-compose/agents/openai.yaml",
+                      "sha256":  "E59E5B50A679C05E9B30BCB98CB8A344216787820373BF9AD09C320288C93D69"
+                  },
+                  {
+                      "path":  "pocketdex-data/SKILL.md",
+                      "sha256":  "C9AD08D37BB36CE00A5C591FC67D4BD5099B772741C2B1F7F2121E2F3D1B4695"
+                  },
+                  {
+                      "path":  "pocketdex-data/agents/openai.yaml",
+                      "sha256":  "50F17E3033FB239208A4504913DDFCB12014E5AF19A1C3E30397647B2C24F3A2"
+                  },
+                  {
+                      "path":  "pocketdex-review/SKILL.md",
+                      "sha256":  "0AD02961DD61605AE8F825542C90D05526F9F6BE0C30BEB668E1CA3C24D67FF7"
+                  },
+                  {
+                      "path":  "pocketdex-review/agents/openai.yaml",
+                      "sha256":  "E2F180986768EC74F08B26590F74BBB4D131F6EF880FD0DF82BA69A8E90C6623"
+                  },
+                  {
+                      "path":  "pocketdex-spec/SKILL.md",
+                      "sha256":  "CFCC53EA7F37285FD6CDE8FA277A04F7A85E4DD6CA656C6D8D4E8AB81B22BBE9"
+                  },
+                  {
+                      "path":  "pocketdex-spec/agents/openai.yaml",
+                      "sha256":  "2BB3DFE15FE0BFE33716C2BF172C3F18592103997A41772BDEDE33D7BBCB0554"
+                  },
+                  {
+                      "path":  "pocketdex-tests/SKILL.md",
+                      "sha256":  "603CAC2E14CFD5FC3267374DDE7B7A45BBA9694CBE11549F2119495B4E631968"
+                  },
+                  {
+                      "path":  "pocketdex-tests/agents/openai.yaml",
+                      "sha256":  "BD027E229B3DA996D6B511C8C40CAF7958F5A4F3594193FBBBF721C38B73D73B"
+                  }
+              ]
+}

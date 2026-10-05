@@ -1,0 +1,6 @@
+interface:
+  display_name: "PocketDex: Compose y estado"
+  short_description: "Pantallas, ViewModels, navegación y accesibilidad"
+  default_prompt: "Usa $pocketdex-compose para implementar la presentación de esta spec."
+policy:
+  allow_implicit_invocation: true

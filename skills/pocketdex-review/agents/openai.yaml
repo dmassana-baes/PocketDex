@@ -1,0 +1,6 @@
+interface:
+  display_name: "PocketDex: revisión Android"
+  short_description: "Revisión estática con hallazgos y evidencia"
+  default_prompt: "Usa $pocketdex-review para revisar estos cambios contra la spec."
+policy:
+  allow_implicit_invocation: true

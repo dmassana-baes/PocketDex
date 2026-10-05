@@ -1,0 +1,6 @@
+interface:
+  display_name: "PocketDex: datos y offline"
+  short_description: "PokéAPI, repositorios, Room y favoritos offline"
+  default_prompt: "Usa $pocketdex-data para implementar los datos de esta funcionalidad."
+policy:
+  allow_implicit_invocation: true

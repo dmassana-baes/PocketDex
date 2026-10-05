@@ -1,0 +1,6 @@
+interface:
+  display_name: "PocketDex: arquitectura Android"
+  short_description: "Módulos, dominio puro, DI y configuración Gradle"
+  default_prompt: "Usa $pocketdex-architecture para resolver este cambio de arquitectura."
+policy:
+  allow_implicit_invocation: true

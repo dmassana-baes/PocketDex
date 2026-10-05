@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pd_left">Izquierda</string>
+    <string name="pd_right">Derecha</string>
+    <string name="pd_loading">Cargando</string>
+    <string name="pd_busy">En curso</string>
+    <string name="pd_add_favorite">Añadir a favoritos</string>
+    <string name="pd_remove_favorite">Quitar de favoritos</string>
+    <string name="pd_favorite">Favorito</string>
+    <string name="pd_not_favorite">No es favorito</string>
+    <string name="pd_search">Buscar un Pokémon</string>
+    <string name="pd_clear_search">Limpiar búsqueda</string>
+    <string name="pd_image_loading">Imagen cargando</string>
+    <string name="pd_image_error">Imagen no disponible</string>
+    <string name="pd_silhouette">Silueta del Pokémon misterioso</string>
+    <string name="pd_missing">No disponible</string>
+    <string name="pd_tie">Empate</string>
+    <string name="pd_left_higher">El valor izquierdo es mayor</string>
+    <string name="pd_right_higher">El valor derecho es mayor</string>
+    <string name="pd_back">Volver</string>
+    <string name="pd_retry">Reintentar</string>
+    <string name="pd_home">Inicio</string>
+    <string name="pd_comparator">Comparador</string>
+    <string name="pd_quiz">Quiz</string>
+    <string name="pd_favorites">Favoritos</string>
+    <string name="pd_hp">PS</string>
+    <string name="pd_attack">Ataque</string>
+    <string name="pd_defense">Defensa</string>
+    <string name="pd_special_attack">Ataque especial</string>
+    <string name="pd_special_defense">Defensa especial</string>
+    <string name="pd_speed">Velocidad</string>
+    <string name="pd_empty">Sin resultados</string>
+    <string name="pd_error">No se pudo cargar el contenido</string>
+    <string name="pd_filters">Filtros</string>
+    <string name="pd_type_bug">Bicho</string>
+    <string name="pd_type_dark">Siniestro</string>
+    <string name="pd_type_dragon">Dragón</string>
+    <string name="pd_type_electric">Eléctrico</string>
+    <string name="pd_type_fairy">Hada</string>
+    <string name="pd_type_fighting">Lucha</string>
+    <string name="pd_type_fire">Fuego</string>
+    <string name="pd_type_flying">Volador</string>
+    <string name="pd_type_ghost">Fantasma</string>
+    <string name="pd_type_grass">Planta</string>
+    <string name="pd_type_ground">Tierra</string>
+    <string name="pd_type_ice">Hielo</string>
+    <string name="pd_type_normal">Normal</string>
+    <string name="pd_type_poison">Veneno</string>
+    <string name="pd_type_psychic">Psíquico</string>
+    <string name="pd_type_rock">Roca</string>
+    <string name="pd_type_steel">Acero</string>
+    <string name="pd_type_water">Agua</string>
+    <plurals name="pd_result_count">
+        <item quantity="one">%d resultado</item>
+        <item quantity="other">%d resultados</item>
+    </plurals>
+</resources>

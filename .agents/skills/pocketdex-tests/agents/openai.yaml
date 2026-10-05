@@ -1,0 +1,6 @@
+interface:
+  display_name: "PocketDex: escritura de pruebas"
+  short_description: "JUnit, Turbine y fakes con ejecución manual"
+  default_prompt: "Usa $pocketdex-tests para escribir pruebas de estos criterios de aceptación."
+policy:
+  allow_implicit_invocation: true

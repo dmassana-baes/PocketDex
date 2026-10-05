@@ -1,0 +1,5 @@
+# Configuración local: no cambia modelo, proveedor, permisos globales ni MCPs.
+[agents]
+enabled = true
+# El límite cuenta threads abiertos; liberar el anterior o reutilizarlo.
+max_concurrent_threads_per_session = 1

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pd_left">Left</string>
+    <string name="pd_right">Right</string>
+    <string name="pd_image_error_marker" translatable="false">!</string>
+    <string name="pd_loading">Loading</string>
+    <string name="pd_busy">In progress</string>
+    <string name="pd_add_favorite">Add to favorites</string>
+    <string name="pd_remove_favorite">Remove from favorites</string>
+    <string name="pd_favorite">Favorite</string>
+    <string name="pd_not_favorite">Not a favorite</string>
+    <string name="pd_search">Search a Pokémon</string>
+    <string name="pd_clear_search">Clear search</string>
+    <string name="pd_image_loading">Image loading</string>
+    <string name="pd_image_error">Image unavailable</string>
+    <string name="pd_silhouette">Mystery Pokémon silhouette</string>
+    <string name="pd_missing">Unavailable</string>
+    <string name="pd_tie">Tie</string>
+    <string name="pd_left_higher">Left value is higher</string>
+    <string name="pd_right_higher">Right value is higher</string>
+    <string name="pd_back">Back</string>
+    <string name="pd_retry">Retry</string>
+    <string name="pd_home">Home</string>
+    <string name="pd_comparator">Comparator</string>
+    <string name="pd_quiz">Quiz</string>
+    <string name="pd_favorites">Favorites</string>
+    <string name="pd_hp">HP</string>
+    <string name="pd_attack">Attack</string>
+    <string name="pd_defense">Defense</string>
+    <string name="pd_special_attack">Special attack</string>
+    <string name="pd_special_defense">Special defense</string>
+    <string name="pd_speed">Speed</string>
+    <string name="pd_empty">No results</string>
+    <string name="pd_error">Unable to load content</string>
+    <string name="pd_filters">Filters</string>
+    <string name="pd_type_bug">Bug</string>
+    <string name="pd_type_dark">Dark</string>
+    <string name="pd_type_dragon">Dragon</string>
+    <string name="pd_type_electric">Electric</string>
+    <string name="pd_type_fairy">Fairy</string>
+    <string name="pd_type_fighting">Fighting</string>
+    <string name="pd_type_fire">Fire</string>
+    <string name="pd_type_flying">Flying</string>
+    <string name="pd_type_ghost">Ghost</string>
+    <string name="pd_type_grass">Grass</string>
+    <string name="pd_type_ground">Ground</string>
+    <string name="pd_type_ice">Ice</string>
+    <string name="pd_type_normal">Normal</string>
+    <string name="pd_type_poison">Poison</string>
+    <string name="pd_type_psychic">Psychic</string>
+    <string name="pd_type_rock">Rock</string>
+    <string name="pd_type_steel">Steel</string>
+    <string name="pd_type_water">Water</string>
+    <plurals name="pd_result_count">
+        <item quantity="one">%d result</item>
+        <item quantity="other">%d results</item>
+    </plurals>
+</resources>

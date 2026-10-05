@@ -1,0 +1,18 @@
+<resources>
+    <string name="favorites_title">Favoritos</string>
+    <string name="favorites_loading">Leyendo favoritos guardados…</string>
+    <string name="favorites_empty">Todavía no tienes favoritos.</string>
+    <string name="favorites_explore">Explorar Pokémon</string>
+    <string name="favorites_refresh">Actualizar favoritos</string>
+    <string name="favorites_read_error">No se pudieron leer tus favoritos. Se conservan los datos disponibles.</string>
+    <string name="favorites_write_error">No se pudo quitar este favorito. Inténtalo de nuevo.</string>
+    <string name="favorites_download_error">No se pudo actualizar este Pokémon. Se conservan los datos guardados y su marca de favorito.</string>
+    <string name="favorites_unknown">Datos del Pokémon no disponibles</string>
+    <string name="favorites_number_missing">Número no disponible</string>
+    <string name="favorites_partial">Faltan algunos datos o la imagen sin conexión.</string>
+    <string name="favorites_updating">Actualizando…</string>
+    <plurals name="favorites_count">
+        <item quantity="one">%d favorito</item>
+        <item quantity="other">%d favoritos</item>
+    </plurals>
+</resources>

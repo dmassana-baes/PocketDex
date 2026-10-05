@@ -1,0 +1,6 @@
+interface:
+  display_name: "PocketDex: especificaciones"
+  short_description: "Contexto y specs con criterios de aceptación"
+  default_prompt: "Usa $pocketdex-spec para preparar la especificación de esta funcionalidad."
+policy:
+  allow_implicit_invocation: true

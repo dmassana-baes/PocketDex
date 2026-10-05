@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PocketDex</string>
+    <string name="destination_home">Inicio</string>
+    <string name="destination_comparator">Comparar</string>
+    <string name="destination_quiz">Quiz</string>
+    <string name="destination_favorites">Favoritos</string>
+    <string name="destination_detail">Pokémon</string>
+    <string name="destination_selector">Seleccionar Pokémon</string>
+    <string name="destination_results">Resultados</string>
+    <string name="section_unavailable">Esta sección todavía no está disponible.</string>
+    <string name="navigation_recovery_notice">No se pudo restaurar la pantalla anterior. Puedes continuar desde Inicio.</string>
+    <string name="dismiss">Cerrar</string>
+</resources>

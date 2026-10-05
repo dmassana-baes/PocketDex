@@ -1,0 +1,31 @@
+<resources>
+    <string name="compare_title">Comparator</string>
+    <string name="compare_intro">Select two Pokémon and compare their base stats.</string>
+    <string name="compare_slot">Pokémon %d</string>
+    <string name="compare_choose">Choose Pokémon %d</string>
+    <string name="compare_replace">Replace Pokémon %d</string>
+    <string name="compare_remove">Remove Pokémon %1$d: %2$s</string>
+    <string name="compare_unknown">Data unavailable</string>
+    <string name="compare_loading">Loading Pokémon…</string>
+    <string name="compare_data_error">Could not obtain complete data. Try again.</string>
+    <string name="compare_duplicate">This Pokémon is already in the other slot. Choose another.</string>
+    <string name="compare_action">Compare</string>
+    <string name="compare_requirement">Choose two different Pokémon with all six base stats.</string>
+    <string name="compare_results">Comparison</string>
+    <string name="compare_results_missing">Complete data for this pair is not available. Retry or return to edit.</string>
+    <string name="compare_retry_slot">Retry Pokémon %d</string>
+    <string name="compare_pair">%1$s / %2$s</string>
+    <string name="compare_higher">%1$s has higher %2$s</string>
+    <string name="compare_selector">Choose Pokémon</string>
+    <string name="compare_catalog_error">Could not load the catalog. Available results have been kept.</string>
+    <string name="compare_partial_catalog">Showing saved results; the complete catalog may have more matches.</string>
+    <string name="compare_no_matches">No Pokémon match this search.</string>
+    <string name="compare_more">Load more</string>
+    <string name="compare_previous">Load previous results</string>
+    <string name="compare_hp">HP</string>
+    <string name="compare_attack">Attack</string>
+    <string name="compare_defense">Defense</string>
+    <string name="compare_special_attack">Special attack</string>
+    <string name="compare_special_defense">Special defense</string>
+    <string name="compare_speed">Speed</string>
+</resources>

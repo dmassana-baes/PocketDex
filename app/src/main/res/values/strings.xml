@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PocketDex</string>
+    <string name="destination_home">Home</string>
+    <string name="destination_comparator">Compare</string>
+    <string name="destination_quiz">Quiz</string>
+    <string name="destination_favorites">Favorites</string>
+    <string name="destination_detail">Pokémon</string>
+    <string name="destination_selector">Select Pokémon</string>
+    <string name="destination_results">Results</string>
+    <string name="section_unavailable">This section is not available yet.</string>
+    <string name="navigation_recovery_notice">Your previous screen could not be restored. You can continue from Home.</string>
+    <string name="dismiss">Dismiss</string>
+</resources>

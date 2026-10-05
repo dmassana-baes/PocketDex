@@ -1,0 +1,31 @@
+<resources>
+    <string name="compare_title">Comparador</string>
+    <string name="compare_intro">Selecciona dos Pokémon y compara sus estadísticas base.</string>
+    <string name="compare_slot">Pokémon %d</string>
+    <string name="compare_choose">Elegir Pokémon %d</string>
+    <string name="compare_replace">Reemplazar Pokémon %d</string>
+    <string name="compare_remove">Quitar Pokémon %1$d: %2$s</string>
+    <string name="compare_unknown">Datos no disponibles</string>
+    <string name="compare_loading">Cargando Pokémon…</string>
+    <string name="compare_data_error">No se pudieron obtener los datos completos. Inténtalo de nuevo.</string>
+    <string name="compare_duplicate">Este Pokémon ya está en el otro espacio. Elige otro.</string>
+    <string name="compare_action">Comparar</string>
+    <string name="compare_requirement">Elige dos Pokémon distintos con las seis estadísticas base.</string>
+    <string name="compare_results">Comparación</string>
+    <string name="compare_results_missing">No están disponibles los datos completos de este par. Reintenta o vuelve a editar.</string>
+    <string name="compare_retry_slot">Reintentar Pokémon %d</string>
+    <string name="compare_pair">%1$s / %2$s</string>
+    <string name="compare_higher">%1$s tiene mayor %2$s</string>
+    <string name="compare_selector">Elegir Pokémon</string>
+    <string name="compare_catalog_error">No se pudo cargar el catálogo. Se conservan los resultados disponibles.</string>
+    <string name="compare_partial_catalog">Se muestran resultados guardados; el catálogo completo puede tener más coincidencias.</string>
+    <string name="compare_no_matches">Ningún Pokémon coincide con esta búsqueda.</string>
+    <string name="compare_more">Cargar más</string>
+    <string name="compare_previous">Cargar resultados anteriores</string>
+    <string name="compare_hp">PS</string>
+    <string name="compare_attack">Ataque</string>
+    <string name="compare_defense">Defensa</string>
+    <string name="compare_special_attack">Ataque especial</string>
+    <string name="compare_special_defense">Defensa especial</string>
+    <string name="compare_speed">Velocidad</string>
+</resources>

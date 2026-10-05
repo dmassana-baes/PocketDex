@@ -1,0 +1,24 @@
+<resources>
+    <string name="detail_title">Pokémon</string>
+    <string name="detail_loading">Loading Pokémon…</string>
+    <string name="detail_not_found">This Pokémon is not in the national catalog.</string>
+    <string name="detail_no_content">Pokémon data is not available on this device. Try downloading it.</string>
+    <string name="detail_partial">Some data is missing. Update to try completing it.</string>
+    <string name="detail_refresh">Update data</string>
+    <string name="detail_retry_image">Retry image</string>
+    <string name="detail_types_missing">Types unavailable</string>
+    <string name="detail_statistics">Base stats</string>
+    <string name="detail_hp">HP</string>
+    <string name="detail_attack">Attack</string>
+    <string name="detail_defense">Defense</string>
+    <string name="detail_special_attack">Special attack</string>
+    <string name="detail_special_defense">Special defense</string>
+    <string name="detail_speed">Speed</string>
+    <string name="detail_offline">No connection. Available data has been kept.</string>
+    <string name="detail_network">Could not update. Try again.</string>
+    <string name="detail_storage">Could not read or save data on this device.</string>
+    <string name="detail_invalid">Received data does not match this Pokémon or is invalid.</string>
+    <string name="detail_favorite_error">Could not confirm the favorite change. %1$s</string>
+    <string name="detail_media_error">The favorite is saved. Could not complete its offline data or image.</string>
+    <string name="detail_media_loading">Completing offline data and image…</string>
+</resources>
